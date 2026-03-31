@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Frank
 
-<!--
-**frkgui/frkgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Back-end Developer passionate about building scalable and reliable applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔧 Back-end development with **PHP, C# and Java**
+- 🌐 Experience with front-end frameworks **Vue.js** and **Angular**
+- 🧩 Focus on **API development, system architecture and clean code**
+- 📚 Always learning new technologies and improving software design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Back-end**
+- PHP
+- C#
+- Java
+
+**Front-end**
+- Vue.js
+- Angular
+- JavaScript
+- HTML / CSS
+
+**Tools & Practices**
+- Git
+- REST APIs
+- Docker
+- Clean Architecture
+
+## 🌎 Connect with Me
+- LinkedIn: https://linkedin.com/in/guilherme-frank
