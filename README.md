@@ -18,8 +18,7 @@
 **Front-end**
 - Vue.js
 - Angular
-- JavaScript
-- HTML / CSS
+- React
 
 **Tools & Practices**
 - Git
